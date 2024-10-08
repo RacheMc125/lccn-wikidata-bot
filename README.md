@@ -1,5 +1,5 @@
 # lccn-wikidata-bot
-Adding LCCNs from NACO to Wikdiata
+Adding LCCNs from NACO to Wikidata
 
 This script powers the [Wikidata LccnBot](https://www.wikidata.org/wiki/User:LccnBot). 
 
